@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@github.com:scmunoz000001/eljuego.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
