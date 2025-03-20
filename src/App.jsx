@@ -1,3 +1,4 @@
+//20/03/2024-12-45
 import { useState, useEffect } from "react";
 import { getGames } from "./api/rawg.js";
 import "./styles.css"; // Importa el CSS
